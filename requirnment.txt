@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+langchain-groq
+python-dotenv
+pypdf
+tiktoken
+faiss-cpu
+numpy
+pandas
